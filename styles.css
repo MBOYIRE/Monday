@@ -1,0 +1,37 @@
+body{
+    background-color:paleturquoise;
+    color :black;
+}
+h1,h2{
+    color :brown;
+    font-size:25px;
+    text-align: left;
+    font-style: italic;
+}
+}
+p{
+    font-size:20px;
+    text-align:
+}
+#calculata{
+    padding-bottom :1.5%;
+    background-color:black; 
+}
+#users{
+    padding-bottom :1.5%;
+    background-color:rgba(3, 3, 3, 0.1); 
+}
+ol{
+    text-align:left;
+    padding: 16px;
+    display:block;
+}
+ul{
+    padding: 18px;
+    display: block;
+    color: black;   
+}
+
+    
+   
+   
